@@ -5,6 +5,7 @@
     </p>
 
 #### ⚡ GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/BethMwangi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BethMwangi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -17,12 +18,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BethMwangi.)
 
 
-#### GitHub Stats
-<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=BethMwangi&count_private=true&show_icons=true&theme=cobalt">
-  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=BethMwangi&">
-</a><br>
-
-
 #### 📫 How to reach me:
 
 <p align="center">
@@ -33,10 +28,6 @@
 <a href="https://www.linkedin.com/in/beth-mwangi-241a3389/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </p>  
-
-<a href="https://github.com/BethMwangi">
-<img align="center" alt="Beth's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bethmwangi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
 
 
 <!--
